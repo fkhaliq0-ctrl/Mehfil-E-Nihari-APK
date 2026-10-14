@@ -1,0 +1,1 @@
+function e(e){let t=String(e??``).trim();return!t||t.toLowerCase()===`regular`?``:t}function t(e){return String(e??``).replace(/\s*\(\s*regular\s*\)/gi,``).replace(/\s{2,}/g,` `).trim()}function n(n,r){let i=t(n),a=e(r);return a?`${i} (${a})`:i}function r(t,n=``){let r=e(t);return r?` (${r})`:String(t??``).trim()?``:n?` (${n})`:``}export{t as i,n,r,e as t};
