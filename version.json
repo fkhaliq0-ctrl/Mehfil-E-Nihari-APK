@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-16",
   "desktop": {
-    "version": "1.9.4",
-    "url": "https://github.com/fkhaliq0-ctrl/Mehfil-E-Nihari-APK/releases/download/v2.0.18/Mehfil-E-Nihari-POS-v1.9.4-OfflineSetup.exe",
-    "sha256": "75910b4b42586312d3ee8b1cd96fcf2fa7625ae6b4bd8b687514ea8e270935e7"
+    "version": "1.9.5",
+    "url": "https://github.com/fkhaliq0-ctrl/Mehfil-E-Nihari-APK/releases/download/v2.0.19/Mehfil-E-Nihari-POS-v1.9.5-OfflineSetup.exe",
+    "sha256": "4cc050e711426ee09e1cab850fedb881fea64d96aff842ab3e9e09aa1be91dd2"
   },
   "android": {
-    "version": "2.0.18",
-    "versionCode": 12,
+    "version": "2.0.19",
+    "versionCode": 13,
     "url": "https://github.com/fkhaliq0-ctrl/Mehfil-E-Nihari-APK/releases/latest/download/Mehfil-E-Nihari.apk"
   }
 }
