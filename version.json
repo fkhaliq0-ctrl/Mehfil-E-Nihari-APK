@@ -6,9 +6,9 @@
     "sha256": "335753f3e4b30802d4b94891eb05fd272a3506933be18a6514d8c7af93c3299e"
   },
   "android": {
-    "version": "2.0.23",
-    "versionCode": 17,
-    "url": "https://github.com/fkhaliq0-ctrl/Mehfil-E-Nihari-APK/releases/download/v2.0.23/Mehfil-E-Nihari-2.0.23.apk",
-    "sha256": "aca71b72975b4a2f7beda6d14dd8cce4b98612d4a20b8a0c54e3f862de248c38"
+    "version": "2.0.24",
+    "versionCode": 18,
+    "url": "https://github.com/fkhaliq0-ctrl/Mehfil-E-Nihari-APK/releases/download/v2.0.24/Mehfil-E-Nihari-2.0.24.apk",
+    "sha256": "6937eb73d82d00a2d295d0e941926ce7b9e7465461b953a1bfcce4c38ef5bdc6"
   }
 }
